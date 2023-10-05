@@ -40,3 +40,11 @@ __Melhoria 1__, _Melhoria 2_
 [Google](https://www.google.com/)
 
 Contribuidor principal: https://github.com/henriquebastoos
+
+## Código da função soma
+
+```javascript
+    function soma(a,b) {
+        return a + b;
+    }
+```
