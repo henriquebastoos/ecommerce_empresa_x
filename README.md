@@ -26,3 +26,7 @@ __Melhoria 1__, _Melhoria 2_
     3. css diferente  para grupos de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+#### Imagem local
+
+![Logo do Spring Boot](img/spring-removebg-preview.png)
