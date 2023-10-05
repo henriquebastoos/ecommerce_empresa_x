@@ -40,5 +40,3 @@ __Melhoria 1__, _Melhoria 2_
 [Google](https://www.google.com/)
 
 Contribuidor principal: https://github.com/henriquebastoos
-
-[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg) ] (https://github.com/henriquebastoos)
