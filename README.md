@@ -38,3 +38,5 @@ __Melhoria 1__, _Melhoria 2_
 ## links interessantes:
 
 [Google](https://www.google.com/)
+
+Contribuidor principal: https://github.com/henriquebastoos
